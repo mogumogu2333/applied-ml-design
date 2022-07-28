@@ -33,5 +33,5 @@ Articles, papers, reports for AI/ML application in production
 * [Google AI Blog](https://ai.googleblog.com/)
 * [Meta AI](https://ai.facebook.com/)
 * [Airbnb Engineering](https://medium.com/airbnb-engineering/ai/home)
-* [Etsy](https://www.etsy.com/codeascraft/category/search-ads-recs)
-* [Pinterest](https://medium.com/@Pinterest_Engineering)
+* [Etsy Code as Craft/search-ads-recs](https://www.etsy.com/codeascraft/category/search-ads-recs)
+* [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
